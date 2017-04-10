@@ -1,0 +1,350 @@
+Summary for /storage/emulated/0/ShowJava/sources/com.microblink.photomath/com.microblink.photomath.jar
+Decompiled with CFR 0_110
+
+
+a.a.a.d
+----------------------------
+
+a()
+  Loose catch block
+
+
+b.a.a.a.a.b.e
+----------------------------
+
+a()
+  Unable to fully structure code
+b()
+  Exception : java.util.ConcurrentModificationException
+
+
+b.a.a.a.a.b.i
+----------------------------
+
+a(java.io.File java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 8[UNCONDITIONALDOLOOP]
+k(android.content.Context )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 7[UNCONDITIONALDOLOOP]
+
+
+b.a.a.a.a.c.a
+----------------------------
+
+a(java.util.concurrent.Executor Params[] )
+  Unable to fully structure code
+
+
+b.a.a.a.a.d.h
+----------------------------
+
+a(java.io.File java.io.File )
+  Loose catch block
+d()
+  Unable to fully structure code
+
+
+b.a.a.a.a.e.d
+----------------------------
+
+a(java.lang.String java.lang.String java.lang.String java.io.File )
+  Unable to fully structure code
+g()
+  Unable to fully structure code
+k()
+  Unable to fully structure code
+call()
+  Unable to fully structure code
+
+
+b.a.a.a.a.g.a
+----------------------------
+
+b(b.a.a.a.a.e.d b.a.a.a.a.g.d )
+  Unable to fully structure code
+
+
+b.a.a.a.a.g.i
+----------------------------
+
+a()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[CATCHBLOCK]], but top level block is 8[UNCONDITIONALDOLOOP]
+a(long org.json.JSONObject )
+  Unable to fully structure code
+
+
+b.a.a.a.a.g.j
+----------------------------
+
+b(b.a.a.a.a.g.r )
+  Exception : java.util.ConcurrentModificationException
+a(b.a.a.a.a.g.r )
+  Exception : java.util.ConcurrentModificationException
+
+
+b.a.a.a.a.g.l
+----------------------------
+
+a(b.a.a.a.a.g.w )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [3[CATCHBLOCK]], but top level block is 7[UNCONDITIONALDOLOOP]
+
+
+b.a.a.a.e
+----------------------------
+
+a(java.util.zip.ZipEntry java.util.zip.ZipFile )
+  Exception : java.util.ConcurrentModificationException
+a()
+  Unable to fully structure code
+
+
+b.a.a.a.h
+----------------------------
+
+a()
+  Loose catch block
+
+
+c.a.a.d
+----------------------------
+
+b()
+  Unable to fully structure code
+a(c.a.a.a c.a.a.a )
+  Exception : java.util.ConcurrentModificationException
+a(int boolean d.c long )
+  Unable to fully structure code
+b()
+  Unable to fully structure code
+
+
+c.a.a.e
+----------------------------
+
+d()
+  Exception : java.util.ConcurrentModificationException
+a(boolean )
+  Exception : java.util.ConcurrentModificationException
+a(d.e long )
+  Unable to fully structure code
+
+
+c.a.a.i
+----------------------------
+
+e(c.a.a.b$a int byte int )
+  Unable to fully structure code
+
+
+c.a.a.j
+----------------------------
+
+a(byte[] )
+  Unable to fully structure code
+
+
+c.a.a.o
+----------------------------
+
+a(c.a.a.b$a )
+  Unable to fully structure code
+
+
+c.a.a
+----------------------------
+
+a(javax.net.ssl.SSLSocket )
+  Unable to fully structure code
+
+
+c.a.b.e
+----------------------------
+
+b(c.z )
+  Unable to fully structure code
+
+
+c.a.b.g
+----------------------------
+
+read(d.c long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 2[SIMPLE_IF_TAKEN]
+a()
+  Exception : java.util.ConcurrentModificationException
+
+
+c.a.b.r
+----------------------------
+
+a(boolean boolean boolean )
+  Unable to fully structure code
+
+
+c.a.b
+----------------------------
+
+a(c.a.b$a boolean )
+  Exception : java.util.ConcurrentModificationException
+
+
+c.a.c.b
+----------------------------
+
+a(int int c.a.a )
+  Exception : java.util.ConcurrentModificationException
+a(int int int java.util.List<c.k> boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 4[UNCONDITIONALDOLOOP]
+a(boolean )
+  Unable to fully structure code
+
+
+c.a.d.c
+----------------------------
+
+c()
+  Unable to fully structure code
+
+
+c.a.g
+----------------------------
+
+c()
+  Unable to fully structure code
+
+
+c.a.i
+----------------------------
+
+a(java.io.Closeable java.io.Closeable )
+  Unable to fully structure code
+b(d.t int java.util.concurrent.TimeUnit )
+  Exception : java.util.ConcurrentModificationException
+
+
+c.ae
+----------------------------
+
+a(java.lang.String )
+  Unable to fully structure code
+
+
+c.d
+----------------------------
+
+a(c.r )
+  Unable to fully structure code
+
+
+c.j
+----------------------------
+
+run()
+  Exception : java.util.ConcurrentModificationException
+a(long )
+  Unable to fully structure code
+
+
+c.l
+----------------------------
+
+a(long c.s java.lang.String )
+  Unable to fully structure code
+
+
+c.s
+----------------------------
+
+a(d.c java.lang.String int int boolean )
+  Unable to fully structure code
+d(java.lang.String int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+f(java.lang.String int int )
+  Unable to fully structure code
+a(c.s java.lang.String )
+  Unable to fully structure code
+
+
+c.w
+----------------------------
+
+<init>(c.w$a )
+  Unable to fully structure code
+
+
+c.y
+----------------------------
+
+a(c.z boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+b()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 6[CATCHBLOCK]
+
+
+com.google.a.b.a.a.a
+----------------------------
+
+a(java.lang.String java.text.ParsePosition )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.a.d.a
+----------------------------
+
+u()
+  Unable to fully structure code
+v()
+  Unable to fully structure code
+q()
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.google.a.b.a.i
+----------------------------
+
+a(com.google.a.f com.google.a.c.a<?> java.lang.Class<?> )
+  Unable to fully structure code
+
+
+com.google.a.b.a.m
+----------------------------
+
+a(com.google.a.d.a )
+  Loose catch block
+
+
+com.google.a.b.g
+----------------------------
+
+a(K boolean )
+  Exception : java.util.ConcurrentModificationException
+
+
+com.microblink.hardware.DeviceManager
+----------------------------
+
+readFreq(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 3 blocks at once
+
+
+com.microblink.hardware.camera.camera1.Camera1Manager
+----------------------------
+
+localStartPreview()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 4[TRYBLOCK]
+run()
+  Exception : java.util.ConcurrentModificationException
+
+
+com.microblink.hardware.camera.camera1.focus.AutoFocusManager
+----------------------------
+
+setMeteringAreas(android.graphics.Rect[] )
+  Unable to fully structure code
+
+
+com.microblink.hardware.camera.camera1.focus.ContinuousAutofocusManager
+----------------------------
+
+doAutofocus(boolean )
+  Exception : java.util.ConcurrentModificationException
+setMeteringAreas(android.graphics.Rect[] )
+  Unable to fully structure code

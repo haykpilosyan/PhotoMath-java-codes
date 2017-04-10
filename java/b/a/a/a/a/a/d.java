@@ -1,0 +1,16 @@
+/*
+ * Decompiled with CFR 0_110.
+ * 
+ * Could not load the following classes:
+ *  android.content.Context
+ *  java.lang.Exception
+ *  java.lang.Object
+ */
+package b.a.a.a.a.a;
+
+import android.content.Context;
+
+public interface d<T> {
+    public T b(Context var1) throws Exception;
+}
+
